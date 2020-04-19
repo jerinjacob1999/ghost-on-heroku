@@ -1,5 +1,6 @@
 themes=(
 	casper
+	casper1
 	attila
 	london
 	massively
