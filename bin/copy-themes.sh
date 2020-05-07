@@ -10,6 +10,7 @@ themes=(
         pico
         lyra
 	liebling
+	wwiki
 )
 
 for theme in "${themes[@]}"
