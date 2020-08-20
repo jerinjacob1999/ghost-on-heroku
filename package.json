@@ -18,7 +18,8 @@
     "liebling": "github:snathjr/liebling",
     "massively": "github:tryghost/massively#1.0.2",
     "mysql": "^2.18.1",
-    "wwiki": "github:jerinjacob1999/wwiki"
+    "wwiki": "github:jerinjacob1999/wwiki",
+    "wwiki-books": "github:jerinjacob1999/wwiki"
   },
   "engines": {
     "node": "10.X"
