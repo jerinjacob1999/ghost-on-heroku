@@ -1,7 +1,5 @@
 themes=(
 	casper3.1
-	casper
-	casper1
 	liebling
 	wwiki
 )

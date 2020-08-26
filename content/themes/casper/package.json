@@ -1,6 +1,6 @@
 {
   "_from": "github:jerinjacob1999/Casper",
-  "_id": "casper@3.0.12",
+  "_id": "casper@3.1.0",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/casper",
@@ -17,7 +17,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "github:jerinjacob1999/Casper#a1607a3e9f36e7f0fa1afc4d2a7a4c9ad107b560",
+  "_resolved": "github:jerinjacob1999/Casper#6fa036e10969b9def88fb3ecf80e82155f814e68",
   "_spec": "github:jerinjacob1999/Casper",
   "_where": "D:\\mini_cs_projects\\ghost-on-heroku",
   "author": {
@@ -60,21 +60,23 @@
   "deprecated": false,
   "description": "A clean, minimal default theme for the Ghost publishing platform",
   "devDependencies": {
-    "@tryghost/release-utils": "0.6.1",
-    "autoprefixer": "9.7.6",
+    "@tryghost/release-utils": "0.6.6",
+    "autoprefixer": "9.8.6",
     "beeper": "2.0.0",
     "cssnano": "4.1.10",
-    "gscan": "3.4.1",
+    "gscan": "3.5.6",
     "gulp": "4.0.2",
     "gulp-concat": "2.6.1",
     "gulp-livereload": "4.0.2",
     "gulp-postcss": "8.0.0",
     "gulp-uglify": "3.0.2",
-    "gulp-zip": "5.0.1",
-    "inquirer": "7.1.0",
-    "postcss-color-function": "4.1.0",
-    "postcss-custom-properties": "9.1.1",
+    "gulp-zip": "5.0.2",
+    "inquirer": "7.3.3",
+    "postcss-color-function": "^4.1.0",
+    "postcss-color-mod-function": "3.0.3",
+    "postcss-custom-properties": "^9.1.1",
     "postcss-easy-import": "3.0.0",
+    "postcss-scss": "^2.1.1",
     "pump": "3.0.0"
   },
   "engines": {
@@ -114,5 +116,5 @@
     "test:ci": "gscan --fatal --verbose .",
     "zip": "gulp zip"
   },
-  "version": "3.0.12"
+  "version": "3.1.0"
 }
