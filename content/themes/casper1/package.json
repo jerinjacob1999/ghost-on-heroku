@@ -1,15 +1,19 @@
 {
+  "_args": [
+    [
+      "github:jerinjacob1999/Casper",
+      "D:\\mini_cs_projects\\ghost-on-heroku"
+    ]
+  ],
   "_from": "github:jerinjacob1999/Casper",
-  "_id": "casper@3.0.12",
+  "_id": "casper1@github:jerinjacob1999/Casper#a1607a3e9f36e7f0fa1afc4d2a7a4c9ad107b560",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/casper1",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "casper1@github:jerinjacob1999/Casper",
-    "name": "casper1",
-    "escapedName": "casper1",
+    "raw": "github:jerinjacob1999/Casper",
     "rawSpec": "github:jerinjacob1999/Casper",
     "saveSpec": "github:jerinjacob1999/Casper",
     "fetchSpec": null,
@@ -19,8 +23,8 @@
     "/"
   ],
   "_resolved": "github:jerinjacob1999/Casper#a1607a3e9f36e7f0fa1afc4d2a7a4c9ad107b560",
-  "_spec": "casper1@github:jerinjacob1999/Casper",
-  "_where": "E:\\Blog_Ghost\\ghost-on-heroku",
+  "_spec": "github:jerinjacob1999/Casper",
+  "_where": "D:\\mini_cs_projects\\ghost-on-heroku",
   "author": {
     "name": "Ghost Foundation",
     "email": "hello@ghost.org",
@@ -32,7 +36,6 @@
   "bugs": {
     "url": "https://github.com/TryGhost/Casper/issues"
   },
-  "bundleDependencies": false,
   "config": {
     "posts_per_page": 25,
     "image_sizes": {
@@ -58,7 +61,6 @@
   },
   "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
   "demo": "https://demo.ghost.io",
-  "deprecated": false,
   "description": "A clean, minimal default theme for the Ghost publishing platform",
   "devDependencies": {
     "@tryghost/release-utils": "0.6.1",
@@ -96,7 +98,7 @@
     "ghost-theme"
   ],
   "license": "MIT",
-  "name": "casper",
+  "name": "casper1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TryGhost/Casper.git"
