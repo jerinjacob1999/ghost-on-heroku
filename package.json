@@ -10,6 +10,7 @@
   "private": true,
   "version": "3.30.1",
   "dependencies": {
+    "casper3.1": "github:jerinjacob1999/Casper",
     "casper": "github:jerinjacob1999/Casper",
     "casper1": "github:jerinjacob1999/Casper",
     "ghost": "^3.13.3",
