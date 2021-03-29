@@ -12,7 +12,7 @@
   "dependencies": {
     "casper": "github:jerinjacob1999/Casper",
     "casper3.1": "github:jerinjacob1999/Casper",
-    "ghost": "^4.0.0",
+    "ghost": "^4.1.2",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.1.4",
     "liebling": "github:snathjr/liebling",
