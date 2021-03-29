@@ -12,9 +12,9 @@
   "dependencies": {
     "casper": "github:jerinjacob1999/Casper",
     "casper3.1": "github:jerinjacob1999/Casper",
-    "ghost": "^3.31.2",
+    "ghost": "^4.1.2",
     "ghost-storage-adapter-s3": "^2.8.0",
-    "ghost-storage-cloudinary": "^2.1.2",
+    "ghost-storage-cloudinary": "^2.1.4",
     "liebling": "github:snathjr/liebling",
     "massively": "github:tryghost/massively#1.0.2",
     "mysql": "^2.18.1",
